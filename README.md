@@ -1,2 +1,2 @@
 # banana-talk
-[live](https://www.google.com)
+[live app](https://www.google.com)
