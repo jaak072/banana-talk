@@ -1,2 +1,2 @@
 # banana-talk
-[live app](https://www.google.com)
+[live app](https://jaak072.github.io/banana-talk/)
